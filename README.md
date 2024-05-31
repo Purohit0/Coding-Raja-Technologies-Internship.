@@ -21,6 +21,6 @@ Visualization: Visualize the detected and tracked objects in the video.
 
 ## Demonstration
 
-[![GIF](https://github.com/Purohit0/Coding-Raja-Technologies-Internship./assets/153826155/5392eab0-00e6-4a87-b430-3dc99aa08d30)
-](https://github.com/srijarkoroy/Moving-Object-Detection/blob/main/Media/Detect.gif)
+![Detect (2)](https://github.com/Purohit0/Coding-Raja-Technologies-Internship./assets/153826155/9a903698-b64f-4d04-a034-c146a41cb13c)
+
 
