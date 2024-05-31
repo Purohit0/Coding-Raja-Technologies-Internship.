@@ -21,5 +21,6 @@ Visualization: Visualize the detected and tracked objects in the video.
 
 ## Demonstration
 
-![](Media/Detect.gif)
+![image](https://github.com/Purohit0/Coding-Raja-Technologies-Internship./assets/153826155/5392eab0-00e6-4a87-b430-3dc99aa08d30)
+
 
